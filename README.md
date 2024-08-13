@@ -1,2 +1,2 @@
-# ahmadgpt
-this is a chatbot my gimini apii 
+# AHMADGPT
+THIS IS CHATBOT MADE BY GIMINI API KEY
